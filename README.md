@@ -4,16 +4,16 @@
 ---
 
 ## Overview
-**ESP_game** is an open-source, high-performance retro gaming platform built from scratch for resource-constrained microcontrollers. Leveraging a dual-core ESP32 (240MHz, 320KB SRAM), `TFT_eSPI` graphics acceleration, and optimized fixed-point DDA raycasting, this project delivers a smooth 3D first-person shooter experience (Wolfenstein 3D / DOOM style) complete with textured walls, sprite-based enemies, weapons, dual-analog stick controls, and image-driven story cutscenes—all running locally on a tiny 1.8-inch TFT display.
+**ESP_game** is an open-source, high-performance retro gaming platform built from scratch for resource-constrained microcontrollers. Leveraging a dual-core ESP32, `TFT_eSPI` graphics acceleration, and optimized fixed-point DDA raycasting, this project delivers a smooth 3D first-person shooter experience (Wolfenstein 3D / DOOM style) complete with textured walls, sprite-based enemies, weapons, dual-analog stick controls, and image-driven story cutscenes—all running locally on a tiny 1.8-inch TFT display.
 
 ---
 
 ## Hardware Specifications & Pinout
 
 ### Microcontroller & Power
-* **MCU:** ESP32 DevKit (30-pin WROOM-32D, Dual-Core 240MHz, 4MB Flash, 320KB SRAM).
+* **MCU:** ESP32-S3 DevKit-N16R8 Board
 * **Power Management:** TP4056 charging module + 3.7v lipo battery + slide switch.
-* **Audio:** PAM8403 mini audio amplifier + 8Ω speaker.
+* **Audio:** I2S Audio Breakout - MAX98357A + 8Ω speaker.
 
 ---
 
@@ -70,3 +70,7 @@ Just tried to keep it as simple as I could, with a bit of grips. :))
 | **TOTAL** | **Estimated Project Cost** | **7** | — | **$26.92** |
 
 The links for the seller is already given in the BOM.csv, so please go check it out. :)
+
+
+### PCB
+Yes, I'm definitely not making PCB, because, PCB delivery to my place would take up the whole budget. It's delivery charge costs me 25$ 
