@@ -54,3 +54,19 @@ With the Drawing being done. I Quickly started doing the 3d model, which was ver
 
 Just tried to keep it as simple as I could, with a bit of grips. :))
 
+### The BOM
+
+
+| Part | Description | Qty | Unit Price | Total Price |
+| :--- | :--- | :---: | :---: | :---: |
+| **1.8" TFT SPI display** | The main Display | 1 | $3.29 | $3.29 | 
+| **Joystick modules** | Controls | 1 | $2.23 | $2.23 |
+| **TP4056** | Charging module | 1 | $1.09 | $1.09 | 
+| **I2S Audio Breakout - MAX98357A** | The audio output | 1 | $2.07 | $2.07 |
+| **ESP32-S3 DevKit-N16R8 Board** | The Brain | 1 | $10.42 | $10.42 |
+| **3.7v 2000mAh Battery** | The power Source | 1 | $4.23 | $4.23 | 
+| **FP6291 Boost Module** | To power the ESP32 stably | 1 | $1.59 | $1.59 |
+| *Tax & shipping* | *for the whole order* | *-* | *-* | *$2.00* |
+| **TOTAL** | **Estimated Project Cost** | **7** | — | **$26.92** |
+
+The links for the seller is already given in the BOM.csv, so please go check it out. :)
