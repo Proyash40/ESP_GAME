@@ -37,6 +37,20 @@ Then, after discussing with some of my elder brothers, I came up with this.
 
 So hey, one big problem solved.  :))
 
-
 So, this all took me, more than 2 days to figure out, but hey!! I only worked for couple of hour or so, cause 24hrs of the day, I obviously wasn't working :p
+
+
+
+Then came the Designing part. I drew this... Crazy huh! ;p
+
+---
+
+<img width="1280" height="823" alt="WhatsApp Image 2026-11-09 at 6 45 23 PM" src="https://github.com/user-attachments/assets/5f6731ed-e19a-48b2-a8be-43873600fe96" />
+
+With the Drawing being done. I Quickly started doing the 3d model, which was very very basic, cause I'm a absolute beginner.
+
+![Screenshot 2026-11-09 at 7 01 18 PM](https://github.com/user-attachments/assets/9a10e7a9-4a30-4b67-a48a-2d0ff530f51a)
+
+
+Just tried to keep it as simple as I could, with a bit of grips. :))
 
